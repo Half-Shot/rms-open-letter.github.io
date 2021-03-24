@@ -924,25 +924,26 @@ Signed,
 1. Will Barton
 1. Will Greenberg (EFF, signing in personal capacity)
 1. Will Hawkins
-1. William D. Jones (`cr1901`)
-1. William Kroes
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. Wolthera van Hövell (Krita/KDE)
-1. Xavier Tilley
-1. Xav Paice
-1. X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
-1. Yadav Lamichhane
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youngbin Han (Ubuntu Korea Community)
-1. Yuvi Panda (Project Jupyter)
-1. Yvan Sraka
-1. Yvonne Lam
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
+1. Will Hunt / `Half-Shot`
+3. William D. Jones (`cr1901`)
+4. William Kroes
+5. William Starkey
+6. William Theaker (Former FSF staff member)
+7. Wolthera van Hövell (Krita/KDE)
+8. Xavier Tilley
+9. Xav Paice
+10. X.org Foundation Board of Directors (Lyude Paul, Eric Anholt, Mark Filion, Keith Packard, Daniel Vetter, Harry Wentland, Samuel Iglesias Gonsálvez)
+11. Yadav Lamichhane
+12. Yao Li (former FSF Monthly Student Associate Member)
+13. Yegor Timoshenko (NixOS contributor)
+14. Yorik van Havre
+15. Youngbin Han (Ubuntu Korea Community)
+16. Yuvi Panda (Project Jupyter)
+17. Yvan Sraka
+18. Yvonne Lam
+19. Zach Klippenstein (aka @zach-klippenstein, Square)
+20. Zach Lipton
+21. Zach van Rijn
+22. Zack Cerza
+23. Zeltzin Rodríguez
+24. Zvi Gilboa

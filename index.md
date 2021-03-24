@@ -95,7 +95,6 @@ Signed,
 1. Andy Isaacson (@radii, founding member of Noisebridge)
 1. AndyTuba
 1. Angus Fletcher
-1. Angus Gratton
 1. Aniol Marti (Debian Maintainer, Caliu President)
 1. Anis Tarafdar
 1. Anna Glasgall
@@ -927,6 +926,7 @@ Signed,
 1. Will Barton
 1. Will Greenberg (EFF, signing in personal capacity)
 1. Will Hawkins
+1. Will Hunt (`Half-Shot`)
 1. William D. Jones (`cr1901`)
 1. William Kroes
 1. William Starkey
